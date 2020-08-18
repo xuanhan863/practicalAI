@@ -28,27 +28,27 @@ Empowering you to use machine learning to get valuable insights from data.
 4. Sign into your Google account.
 5. Click the `COPY TO DRIVE` button on the toolbar. This will open the notebook on a new tab.
 
-<img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/copy_to_drive.png">
+![copy_to_drive](https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/copy_to_drive.png)
 
-5. Rename this new notebook by removing the `Copy of` part in the title.
-6. Run the code, make changes, etc. and it's all automatically saved to you personal Google Drive.
+6. Rename this new notebook by removing the `Copy of` part in the title.
+7. Run the code, make changes, etc. and it's all automatically saved to you personal Google Drive.
 
 
 ## Contributing to notebooks
 1. Make your changes and download the Google colab notebook as an .ipynb file.
 
-<img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/download_ipynb.png">
+![download_ipynb](https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/download_ipynb.png)
 
-2. Go to https://github.com/GokuMohandas/practicalAI/tree/master/notebooks
+2. Go to [`notebooks`](https://github.com/GokuMohandas/practicalAI/tree/master/notebooks) folder.
 3. Click on `Upload files`.
 
-<img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/upload.png">
+![upload](https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/upload.png)
 
 5. Upload the .ipynb file.
 6. Write a detailed commit title and message.
 7. Name your branch as appropriately.
 8. Click on `Propose changes`.
 
-<img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/commit.png">
+![commit](https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/commit.png)
 
 
